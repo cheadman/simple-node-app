@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "playground tutorial repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheadman/simple-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheadman/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/cheadman/simple-node-app#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
